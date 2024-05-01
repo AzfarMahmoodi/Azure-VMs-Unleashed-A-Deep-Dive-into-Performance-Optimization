@@ -1,5 +1,4 @@
-# Velocity-Powering-Up-with-Azure-VMs
-
+# Azure VMs Unleashed: A Deep Dive into Performance Optimization
 
 The advent of cloud computing has revolutionized the way we approach computational tasks, particularly in the field of machine learning. In our project, we harnessed the power of Microsoft Azure’s cloud services to construct a robust server system that significantly enhances the performance of large-scale machine learning models. Utilizing three Azure Virtual Machines (VMs), we orchestrated a network that operates cohesively through a singular IP address on the Crompt Prompt platform.
 Our system architecture was meticulously designed with a primary VM acting as the central processing unit, while the remaining two VMs served as supplementary processors. This configuration allowed for a seamless distribution of computational load, ensuring that the main VM could perform intensive model training tasks without being bottlenecked by resource limitations. The auxiliary VMs provided additional support, handling ancillary processes and thereby streamlining the overall workflow.
